@@ -1,5 +1,5 @@
-# seasonal_pond_ghg
-Data from the paper "Hourly methane and carbon dioxide exchange rates from alkaline temperate ponds"
+### Hourly methane and carbon dioxide fluxes from temperate ponds
+Data from the paper "Hourly methane and carbon dioxide fluxes from temperate ponds"
 Jonas Stage Sø*1, Kenneth Thorø Martinsen2, Theis Kragh1 and Kaj Sand-Jensen2.
 
 * Corresponding author
@@ -9,4 +9,4 @@ Corresponding author: jonassoe@biology.sdu.dk
 
 
 
-Currently in review. Hopefully soon published.
+Accepted for publishing in Springer Biogeochemistry
